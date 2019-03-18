@@ -1,0 +1,65 @@
+body{
+	min-width: 980px;
+}
+.driver{
+	width: 150px;
+	height: 150px;
+	position: fixed;
+    right: 50px;
+    bottom: 50px;
+    z-index: 10000;
+}
+.header-con{
+	width: 980px;
+}
+main div{
+	margin: 0 auto;
+}
+main a{
+	position: absolute;
+}
+.main-top{
+	height: 420px;
+	background-color: #00b6f7;
+}
+.main-top>div{
+	width: 980px;
+	height: 420px;
+	background-image: url(../images/car-redirect_banner.jpg);
+	position: relative;
+}
+.main-top a{
+	width: 175px;
+	height: 45px;
+	top: 283px;
+	left: 64px;
+}
+.main-con{
+	height: 775px;
+	background-color: #fff;
+}
+.main-con>div{
+	width: 980px;
+	height: 775px;
+	background-image: url(../images/car-redirect_advbtn.png);
+	position: relative;
+}
+.main-con a{
+	width: 144px;
+	height: 42px;
+}
+.main-bottom{
+	height: 240px;
+	background-color: #f1f1f1;
+}
+.main-bottom>div{
+	width: 980px;
+	height: 240px;
+	background-image: url(../images/car-redirect_qdr.png);
+	position: relative;
+}
+.main-bottom a{
+	width: 145px;
+	height: 45px;
+	left: 614px;
+}
